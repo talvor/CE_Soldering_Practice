@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by CvPcb (2014-01-10 BZR 4619)-product date = Wed 29 Jan 2014 06:56:38 EST
+
+BeginCmp
+TimeStamp = /52E1F38F;
+Reference = U1;
+ValeurCmp = LTC1594CS;
+IdModule  = SMD_Packages:TSSOP14;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E1F3CD;
+Reference = U2;
+ValeurCmp = TL074;
+IdModule  = SMD_Packages:TSSOP14;
+EndCmp
+
+EndListe
